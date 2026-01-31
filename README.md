@@ -1,4 +1,4 @@
-<img width="956" height="714" alt="Screenshot 2026-02-01 031534" src="https://github.com/user-attachments/assets/b2946fd4-ab4b-4a63-ae52-8b32da3ee656" /># IPL-Data-Analysis-Matches-Ball-by-Ball-
+# IPL-Data-Analysis- Matches-Ball-by-Ball-
 
 ## 📌 Project Title
 
